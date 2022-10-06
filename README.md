@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Please refer to http://www.zhangsongyang.com/ for more details.
+Please refer to https://www.zhangsongyang.com/ for more details.
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tonysy&show_icons=true&include_all_commits=true&count_private=true"/> </p>  -->
 
